@@ -2,8 +2,8 @@
 
 # Welcome to @samsoniuk!
 
-- 👋 Hi, I'm a Polish descendant living in Brazil, working for a Canadian company and developing products for the German market.
-- 👀 I’m interested in kilocore, RISCV, DarkRISCV, 68K, VLIW, DSP, FPGA, Verilog, C, AWK, ASM, VHDL, HPC, GPU, memes, etc.
+- 👋 Hi, I'm a Polish descendant living in Brazil and trying to learn Japanese, currently working for a Canadian company and developing products for the German market!
+- 👀 I’m interested in kilocore, RISCV, DarkRISCV, 68K, VLIW, DSP, FPGA, Verilog, C, AWK, ASM, VHDL, HPC, GPU, memes, jokes, etc.
 - 🌱 I’m currently learning Apple's Swift for SpriteKit and I am working in some new tecnologies regarding 2D game rendering! :D
 - 💞️ Sorry! I’m NOT looking to collaborate with nothing special by now...
 - 📫 Anyway, you can to reach me here in the github.
