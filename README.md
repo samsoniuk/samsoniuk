@@ -9,7 +9,7 @@
 - 📫 Anyway, you can to reach me here in the github.
 
 Useful links:
-- [x.com/samsoniuk](x.com/samsoniuk)
+- [x.com/samsoniuk](https://x.com/samsoniuk)
 
 TODO: add more stuff here.
 
