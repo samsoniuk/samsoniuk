@@ -9,7 +9,8 @@
 - 📫 Anyway, you can to reach me here in the github.
 
 Useful links:
-- [x.com/samsoniuk](https://x.com/samsoniuk)
+- darkriscv, udarkrisc, hc908rtos, etc: [github.com/darklife](https://github.com/darklife)
+- fun: [x.com/samsoniuk](https://x.com/samsoniuk)
 
 TODO: add more stuff here.
 
