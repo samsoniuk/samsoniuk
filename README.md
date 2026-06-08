@@ -2,7 +2,7 @@
 
 # Welcome to @samsoniuk!
 
-- 👋 Hi, I'm a Polish descendant living in Brazil and trying to learn Japanese, currently working for a Canadian company and developing products for the German market!
+- 👋 Hi, I'm a Polish descendant living in Brazil, trying to learn Japanese, working for a Canadian company and developing products for the German market!
 - 👀 I’m interested in kilocore, RISCV, DarkRISCV, 68K, VLIW, DSP, FPGA, Verilog, C, AWK, ASM, VHDL, HPC, GPU, memes, jokes, make X11 great again, etc.
 - 🌱 I’m currently learning Apple's SpriteKit and working in some new tecnologies regarding 2D game rendering! ✨
 - 💞️ Sorry! I’m NOT looking to collaborate with nothing special by now...
